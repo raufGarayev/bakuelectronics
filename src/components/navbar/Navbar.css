@@ -1,0 +1,20 @@
+.s-input {
+    position: relative;
+    max-width: 580px;
+    width: 540px;
+    border-radius: 25px;
+    border: 1px solid #dedede;
+}
+
+.s-icon {
+    position: absolute;
+    right: 5px;
+    top: 3px;
+
+}
+.s-input input {
+    width: 100% !important;
+    border: none;
+    border-radius: 25px;
+}
+
